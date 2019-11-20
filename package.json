@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Ryan-Wilkinson/wdi-queue-helper#readme",
   "dependencies": {
-    "angular": "^1.6.4",
+    "angular": "^1.7.9",
     "angular-ui-router": "^0.4.2",
     "body-parser": "^1.17.2",
     "express": "^4.15.2",
